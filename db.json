@@ -83,6 +83,62 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 13
+    },
+    {
+      "date": "2024-05-15",
+      "description": "jordan4",
+      "category": "fashion ",
+      "amount": "3000",
+      "id": 14
+    },
+    {
+      "date": "2024-05-15",
+      "description": "jordan4",
+      "category": "fashion ",
+      "amount": "3000",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 16
+    },
+    {
+      "date": "2024-05-17",
+      "description": "rent payment",
+      "category": "housing",
+      "amount": "15000",
+      "id": 17
+    },
+    {
+      "date": "2024-05-17",
+      "description": "rent payment",
+      "category": "housing",
+      "amount": "15000",
+      "id": 18
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 19
+    },
+    {
+      "date": "2024-05-23",
+      "description": "cargo",
+      "category": "fashion ",
+      "amount": "1400",
+      "id": 20
     }
   ]
 }
